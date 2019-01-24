@@ -1,0 +1,24 @@
+body {
+    /* background-image: url(../img/background.png); */
+     background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/File-In-N-Out_Burger_hamburgers_and_cheeseburgers.jpg/220px-File-In-N-Out_Burger_hamburgers_and_cheeseburgers.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.container {
+    margin: 120px 100px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.row-1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+button {
+    margin: 5px;
+}
