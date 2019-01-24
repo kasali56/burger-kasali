@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CCastro502/burger.git"
+    "url": "git+https://github.com/kasali56/burger-kasali.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/CCastro502/burger/issues"
+    "url": "https://github.com/kasali56/burger-kasali/issues"
   },
-  "homepage": "https://github.com/CCastro502/burger#readme",
+  "homepage": "https://github.com/kasali56/burger#readme",
   "dependencies": {
     "express": "^4.16.4",
     "express-handlebars": "^3.0.0",
